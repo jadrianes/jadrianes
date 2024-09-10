@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on marketing<br>👯 I’m looking to collaborate on new apps<br>🤝 I’m looking for help with updates<br>🌱 I’m currently learning CSS<br>💬 Ask me about anything<br>⚡ Fun fact I am addited to new courses
