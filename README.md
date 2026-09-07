@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working as translator<br>🤝 I’m looking for help with updates<br>🌱 I’m currently learning Typescript and Playwright<br>💬 Ask me about anything<br>⚡ Fun fact I am addited to new courses
+🔭 I’m currently working as translator<br>🤝 I’m looking for help with updates<br>🌱 I’m currently learning Java <br>💬 Ask me about anything<br>⚡ Fun fact I am addicted to new courses<br> 👾 Sistemas da Informação - 2/8
 
 
 ## 🌐 Socials:
